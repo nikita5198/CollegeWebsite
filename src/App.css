@@ -61,6 +61,9 @@ header {
   width: 100%;
   text-align: center;
 }
+video{
+  height: 300px;
+}
 
 .courses-section {
   margin-top: 40px;
@@ -132,7 +135,9 @@ footer {
   .dropdown-button {
     font-size: 24px;
   }
-  
+  video{
+    height: 200px;
+  }
   /* Course Boxes */
   .course-box {
     width: 50%;
